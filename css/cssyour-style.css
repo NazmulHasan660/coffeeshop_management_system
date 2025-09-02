@@ -1,0 +1,22 @@
+/* Coffee color */
+.coffee-color {
+    color: #6F4E37;  /* text color */
+}
+
+.coffee-bg {
+    background-color: #6F4E37; /* background color */
+}
+
+.coffee-border {
+    border-color: #6F4E37; /* border color */
+}
+
+.coffee-btn {
+    background-color: #6F4E37;
+    color: #fff; /* white text for contrast */
+    border: none;
+}
+
+.coffee-btn:hover {
+    background-color: #563B2A; /* slightly darker coffee shade on hover */
+}
